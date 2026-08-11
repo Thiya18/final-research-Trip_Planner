@@ -1,0 +1,393 @@
+{
+ "A": {
+  "rl": {
+   "days": [
+    [
+     "Ritigala Forest Monastery",
+     "Aukana Buddha Statue",
+     "Dambulla Cave Temple",
+     "Ibbankatuwa Megalithic Tombs"
+    ],
+    [
+     "Sri Muthumariamman Temple"
+    ]
+   ],
+   "metrics": {
+    "n_stops": 5,
+    "total_reward": 5.5987,
+    "mean_preference": 0.8656,
+    "total_travel_min": 237,
+    "crowd_suitability": 0.8,
+    "constraints_satisfied": true
+   },
+   "warnings": [],
+   "budget": {
+    "entrance_fees": 100,
+    "transport": 17563,
+    "meals": 24000,
+    "accommodation": 18000,
+    "total": 59663,
+    "per_person": 29832,
+    "your_budget": 60000,
+    "within_budget": true,
+    "total_km": 135.1,
+    "budget_level": "medium",
+    "nights": 1,
+    "rooms": 1,
+    "currency": "LKR",
+    "note": "Estimate from reference prices. Prices change with season."
+   }
+  },
+  "greedy": {
+   "days": [
+    [
+     "Anuradhapura Sacred City",
+     "Jetavanaramaya",
+     "Isurumuniya Temple"
+    ],
+    [
+     "Ritigala Forest Monastery"
+    ]
+   ],
+   "metrics": {
+    "n_stops": 4,
+    "total_reward": 4.6971,
+    "mean_preference": 0.8785,
+    "total_travel_min": 218,
+    "crowd_suitability": 0.75,
+    "constraints_satisfied": true
+   },
+   "warnings": [],
+   "budget": {
+    "entrance_fees": 300,
+    "transport": 16315,
+    "meals": 24000,
+    "accommodation": 18000,
+    "total": 58615,
+    "per_person": 29308,
+    "your_budget": 60000,
+    "within_budget": true,
+    "total_km": 125.5,
+    "budget_level": "medium",
+    "nights": 1,
+    "rooms": 1,
+    "currency": "LKR",
+    "note": "Estimate from reference prices. Prices change with season."
+   }
+  },
+  "nearest": {
+   "days": [
+    [
+     "Sigiriya Rock Fortress",
+     "Dambulla Cave Temple",
+     "Ibbankatuwa Megalithic Tombs",
+     "Nalanda Gedige"
+    ],
+    [
+     "Aluvihare Rock Temple",
+     "Sri Muthumariamman Temple"
+    ]
+   ],
+   "metrics": {
+    "n_stops": 6,
+    "total_reward": 6.8004,
+    "mean_preference": 0.8239,
+    "total_travel_min": 177,
+    "crowd_suitability": 0.6667,
+    "constraints_satisfied": true
+   },
+   "warnings": [],
+   "budget": {
+    "entrance_fees": 400,
+    "transport": 12090,
+    "meals": 24000,
+    "accommodation": 18000,
+    "total": 54490,
+    "per_person": 27245,
+    "your_budget": 60000,
+    "within_budget": true,
+    "total_km": 93.0,
+    "budget_level": "medium",
+    "nights": 1,
+    "rooms": 1,
+    "currency": "LKR",
+    "note": "Estimate from reference prices. Prices change with season."
+   }
+  }
+ },
+ "B": {
+  "rl": {
+   "days": [
+    [
+     "Udawattakele Forest Reserve",
+     "Kandy Lake",
+     "Royal Botanical Gardens Peradeniya",
+     "Ramboda Falls",
+     "St. Clair's Falls"
+    ],
+    [
+     "Devon Falls",
+     "Gregory Lake",
+     "Lipton's Seat",
+     "Little Adam's Peak"
+    ],
+    [
+     "Diyaluma Falls",
+     "Ella Rock"
+    ],
+    [
+     "Pinnawala Elephant Orphanage"
+    ]
+   ],
+   "metrics": {
+    "n_stops": 12,
+    "total_reward": 10.6428,
+    "mean_preference": 0.8426,
+    "total_travel_min": 779,
+    "crowd_suitability": 0.4167,
+    "constraints_satisfied": true
+   },
+   "warnings": [],
+   "budget": {
+    "entrance_fees": 24000,
+    "transport": 38974,
+    "meals": 48000,
+    "accommodation": 54000,
+    "total": 164974,
+    "per_person": 82487,
+    "your_budget": 360000,
+    "within_budget": true,
+    "total_km": 299.8,
+    "budget_level": "medium",
+    "nights": 3,
+    "rooms": 1,
+    "currency": "LKR",
+    "note": "Estimate from reference prices. Prices change with season."
+   }
+  },
+  "greedy": {
+   "days": [
+    [
+     "Knuckles Mountain Range"
+    ],
+    [
+     "Gregory Lake",
+     "Devon Falls",
+     "Kandy Lake"
+    ],
+    [
+     "Udawattakele Forest Reserve",
+     "Diyaluma Falls"
+    ],
+    [
+     "Lipton's Seat",
+     "Royal Botanical Gardens Peradeniya"
+    ]
+   ],
+   "metrics": {
+    "n_stops": 8,
+    "total_reward": 6.323,
+    "mean_preference": 0.8751,
+    "total_travel_min": 969,
+    "crowd_suitability": 0.625,
+    "constraints_satisfied": true
+   },
+   "warnings": [],
+   "budget": {
+    "entrance_fees": 21000,
+    "transport": 50388,
+    "meals": 48000,
+    "accommodation": 54000,
+    "total": 173388,
+    "per_person": 86694,
+    "your_budget": 360000,
+    "within_budget": true,
+    "total_km": 387.6,
+    "budget_level": "medium",
+    "nights": 3,
+    "rooms": 1,
+    "currency": "LKR",
+    "note": "Estimate from reference prices. Prices change with season."
+   }
+  },
+  "nearest": {
+   "days": [
+    [
+     "Kandy Lake",
+     "Udawattakele Forest Reserve",
+     "Royal Botanical Gardens Peradeniya",
+     "Ambuluwawa Tower"
+    ],
+    [
+     "Ramboda Falls",
+     "Devon Falls",
+     "St. Clair's Falls",
+     "Gregory Lake"
+    ],
+    [
+     "Horton Plains and World's End",
+     "Lipton's Seat"
+    ],
+    [
+     "Diyaluma Falls",
+     "Ella Rock"
+    ]
+   ],
+   "metrics": {
+    "n_stops": 12,
+    "total_reward": 12.5232,
+    "mean_preference": 0.8505,
+    "total_travel_min": 474,
+    "crowd_suitability": 0.4167,
+    "constraints_satisfied": true
+   },
+   "warnings": [],
+   "budget": {
+    "entrance_fees": 31200,
+    "transport": 22464,
+    "meals": 48000,
+    "accommodation": 54000,
+    "total": 155664,
+    "per_person": 77832,
+    "your_budget": 360000,
+    "within_budget": true,
+    "total_km": 172.8,
+    "budget_level": "medium",
+    "nights": 3,
+    "rooms": 1,
+    "currency": "LKR",
+    "note": "Estimate from reference prices. Prices change with season."
+   }
+  }
+ },
+ "C": {
+  "rl": {
+   "days": [
+    [
+     "Unawatuna Beach",
+     "Jungle Beach",
+     "Koggala Lake"
+    ],
+    [
+     "Coconut Tree Hill",
+     "Mirissa Beach",
+     "Tangalle Beach"
+    ],
+    [
+     "Bundala National Park",
+     "Tissa Wewa"
+    ]
+   ],
+   "metrics": {
+    "n_stops": 8,
+    "total_reward": 9.7494,
+    "mean_preference": 0.8099,
+    "total_travel_min": 329,
+    "crowd_suitability": 1.0,
+    "constraints_satisfied": true
+   },
+   "warnings": [],
+   "budget": {
+    "entrance_fees": 8240,
+    "transport": 3666,
+    "meals": 30000,
+    "accommodation": 24000,
+    "total": 65906,
+    "per_person": 16476,
+    "your_budget": 96000,
+    "within_budget": true,
+    "total_km": 183.3,
+    "budget_level": "low",
+    "nights": 2,
+    "rooms": 2,
+    "currency": "LKR",
+    "note": "Estimate from reference prices. Prices change with season."
+   }
+  },
+  "greedy": {
+   "days": [
+    [
+     "Unawatuna Beach",
+     "Mirissa Beach",
+     "Coconut Tree Hill"
+    ],
+    [
+     "Jungle Beach",
+     "Bentota Beach"
+    ],
+    [
+     "Hikkaduwa Beach and Coral Sanctuary",
+     "Koggala Lake"
+    ]
+   ],
+   "metrics": {
+    "n_stops": 7,
+    "total_reward": 8.4328,
+    "mean_preference": 0.8633,
+    "total_travel_min": 404,
+    "crowd_suitability": 1.0,
+    "constraints_satisfied": true
+   },
+   "warnings": [],
+   "budget": {
+    "entrance_fees": 8000,
+    "transport": 4672,
+    "meals": 30000,
+    "accommodation": 24000,
+    "total": 66672,
+    "per_person": 16668,
+    "your_budget": 96000,
+    "within_budget": true,
+    "total_km": 233.6,
+    "budget_level": "low",
+    "nights": 2,
+    "rooms": 2,
+    "currency": "LKR",
+    "note": "Estimate from reference prices. Prices change with season."
+   }
+  },
+  "nearest": {
+   "days": [
+    [
+     "Jungle Beach",
+     "Unawatuna Beach",
+     "Koggala Lake"
+    ],
+    [
+     "Weligama Beach",
+     "Mirissa Beach",
+     "Coconut Tree Hill"
+    ],
+    [
+     "Tangalle Beach",
+     "Tissa Wewa"
+    ]
+   ],
+   "metrics": {
+    "n_stops": 8,
+    "total_reward": 9.6536,
+    "mean_preference": 0.7908,
+    "total_travel_min": 318,
+    "crowd_suitability": 1.0,
+    "constraints_satisfied": true
+   },
+   "warnings": [],
+   "budget": {
+    "entrance_fees": 8000,
+    "transport": 3530,
+    "meals": 30000,
+    "accommodation": 24000,
+    "total": 65530,
+    "per_person": 16382,
+    "your_budget": 96000,
+    "within_budget": true,
+    "total_km": 176.5,
+    "budget_level": "low",
+    "nights": 2,
+    "rooms": 2,
+    "currency": "LKR",
+    "note": "Estimate from reference prices. Prices change with season."
+   }
+  }
+ }
+}

@@ -1,0 +1,8 @@
+item,n,mean,sd,median,agree_pct,disagree_pct,wilcoxon_vs_3_p,wilcoxon_r,mean_international,mean_local,mannwhitney_U,mannwhitney_p
+T1 Recommended places matched my interests,30,4.03,0.89,4.0,76.7,6.7,4.544243842696866e-05,0.745,4.0,4.07,108.0,0.8594
+T2 The plan felt personalised to me,30,3.9,0.8,4.0,70.0,3.3,5.982709982548878e-05,0.733,3.8,4.0,99.5,0.5778
+T3 The day-by-day itinerary was useful,30,4.2,0.66,4.0,86.7,0.0,3.88536849688825e-06,0.843,4.2,4.2,112.5,1.0
+T4 The route and timing were practical,30,3.8,0.66,4.0,73.3,3.3,2.478501221711486e-05,0.77,3.67,3.93,92.0,0.3326
+T5 The budget estimate was useful,30,3.83,0.83,4.0,70.0,6.7,0.00012113635860850547,0.702,3.8,3.87,107.0,0.8225
+T6 The crowd information was useful,30,3.9,0.76,4.0,73.3,3.3,3.5946227245239307e-05,0.754,3.93,3.87,114.5,0.9455
+"T7 Overall, I am satisfied with the trip plan",30,4.17,0.7,4.0,83.3,0.0,6.088903504092728e-06,0.826,4.13,4.2,107.5,0.8381

@@ -1,0 +1,24 @@
+{
+  "_note": "Approximate 2025-26 reference prices in LKR. Verify and cite sources before reporting.",
+  "usd_to_lkr": 300,
+  "transport_per_km": {
+    "bus": 5,
+    "tuk_tuk": 120,
+    "private_car": 130
+  },
+  "meals_per_person_per_day": {
+    "low": 2500,
+    "medium": 6000,
+    "high": 15000
+  },
+  "accommodation_per_room_per_night": {
+    "low": 6000,
+    "medium": 18000,
+    "high": 45000
+  },
+  "road_factor": 1.35,
+  "avg_speed_kmh": {
+    "default": 38,
+    "hill_country": 25
+  }
+}

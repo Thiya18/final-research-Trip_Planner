@@ -1,0 +1,13 @@
+tests/test_api.py::test_health PASSED                                    [ 16%]
+tests/test_api.py::test_recommend_region_only PASSED                     [ 33%]
+tests/test_api.py::test_plan_all_methods_respect_time PASSED             [ 50%]
+tests/test_api.py::test_comfort_budget_produces_feasible_itinerary PASSED [ 66%]
+tests/test_api.py::test_feedback_roundtrip PASSED                        [ 83%]
+tests/test_api.py::test_bad_interest_rejected PASSED                     [100%]
+9.24s call     tests/test_api.py::test_health
+0.08s call     tests/test_api.py::test_plan_all_methods_respect_time
+0.04s call     tests/test_api.py::test_comfort_budget_produces_feasible_itinerary
+0.04s call     tests/test_api.py::test_feedback_roundtrip
+0.03s call     tests/test_api.py::test_recommend_region_only
+0.01s call     tests/test_api.py::test_bad_interest_rejected
+======================== 6 passed, 1 warning in 11.51s ========================

@@ -1,0 +1,31 @@
+participant_id,group,t1,t2,t3,t4,t5,t6,t7,comment
+INT-01,international,5,4,5,4,4,4,5,"Crowd info helped me skip Sigiriya at noon. Budget was close to what I really spent."
+INT-02,international,4,4,4,3,3,4,4,"Budget felt a bit low for hotels."
+INT-03,international,5,5,5,4,5,5,5,"Loved the crowd tips, very useful for planning mornings."
+INT-04,international,3,3,4,3,3,3,3,
+INT-05,international,4,3,4,4,4,4,4,"Budget was a good rough guide."
+INT-06,international,5,4,5,4,5,4,5,"Really handy to see costs upfront."
+INT-07,international,2,2,3,2,3,3,3,"Some stops were too far apart for one day."
+INT-08,international,4,4,4,4,4,5,4,"Crowd levels were helpful, especially for Kandy."
+INT-09,international,4,5,4,4,4,4,4,"Budget didn't include tuk-tuk costs, I think."
+INT-10,international,5,4,5,5,5,4,5,
+INT-11,international,3,3,3,3,2,3,3,"Budget numbers seemed too general."
+INT-12,international,4,4,5,4,4,4,4,"Good overall. Would like live crowd updates."
+INT-13,international,5,5,4,4,4,5,5,"Crowd information was my favourite feature."
+INT-14,international,4,3,4,4,4,3,4,
+INT-15,international,3,4,4,3,3,4,4,"Okay, but the budget range was wide."
+LOC-01,local,5,5,5,4,4,5,5,"Very accurate on crowds at Galle Fort."
+LOC-02,local,4,4,4,4,5,4,4,"Budget estimate was spot on for food and entry fees."
+LOC-03,local,4,3,4,3,3,3,4,
+LOC-04,local,5,4,5,4,4,4,5,"Useful, I changed my timing because of it."
+LOC-05,local,3,3,3,4,3,2,3,"Crowd info didn't match what I saw on the day."
+LOC-06,local,4,4,5,5,4,4,4,
+LOC-07,local,5,5,4,4,5,5,5,"Both were great, I'd use them again."
+LOC-08,local,4,4,4,3,4,4,4,"Good, but I'd like prices per person and per group."
+LOC-09,local,2,3,3,3,2,3,3,"Budget was too low compared to real prices."
+LOC-10,local,4,4,4,4,4,4,4,
+LOC-11,local,5,4,5,5,4,5,5,"Crowd tips saved me time at the temples."
+LOC-12,local,3,4,4,4,3,3,4,"Fine, but nothing special."
+LOC-13,local,4,5,4,4,4,4,4,"Budget gave me a good idea of what to bring."
+LOC-14,local,5,5,5,4,5,4,5,
+LOC-15,local,4,3,4,4,4,4,4,"Helpful overall, would like more detail on peak hours."

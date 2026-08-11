@@ -1,0 +1,7 @@
+,total_reward,total_reward,mean_preference,mean_preference,n_stops,n_stops,total_travel_min,total_travel_min,crowd_suitability,crowd_suitability,constraints_satisfied,constraints_satisfied,runtime_ms,runtime_ms
+,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std
+method,,,,,,,,,,,,,,
+greedy,4.124,2.039,0.681,0.155,5.517,3.006,480.083,315.656,0.714,0.281,0.983,0.129,0.462,0.234
+nearest,7.121,2.937,0.555,0.162,8.467,3.615,283.55,174.683,0.648,0.238,0.983,0.129,0.7,0.394
+rl,6.312,2.862,0.604,0.161,7.6,3.475,371.333,219.955,0.698,0.262,0.983,0.129,6.921,3.661
+rl_no_crowd,6.021,2.853,0.602,0.16,7.633,3.556,366.733,216.496,0.569,0.303,0.983,0.129,6.671,2.654

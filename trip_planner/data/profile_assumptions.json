@@ -1,0 +1,99 @@
+{
+  "_note": "PLACEHOLDER distributions. Replace each with percentages from your real survey, then re-run.",
+  "traveller_type": {
+    "international": 0.5,
+    "local": 0.5
+  },
+  "age_group": {
+    "18-24": 0.35,
+    "25-34": 0.35,
+    "35-44": 0.18,
+    "45+": 0.12
+  },
+  "travel_style": {
+    "solo": 0.15,
+    "couple": 0.25,
+    "family": 0.25,
+    "friends": 0.3,
+    "group": 0.05
+  },
+  "interests": {
+    "beach": 0.45,
+    "cultural": 0.5,
+    "nature_wildlife": 0.55,
+    "adventure": 0.35,
+    "religious": 0.3,
+    "food_dining": 0.3
+  },
+  "n_interests": {
+    "1": 0.25,
+    "2": 0.45,
+    "3": 0.3
+  },
+  "trip_days": {
+    "1": 0.2,
+    "2": 0.3,
+    "3": 0.25,
+    "4": 0.15,
+    "5": 0.1
+  },
+  "budget_level": {
+    "low": 0.35,
+    "medium": 0.45,
+    "high": 0.2
+  },
+  "crowd_preference": {
+    "peaceful": 0.35,
+    "moderate": 0.4,
+    "lively": 0.1,
+    "no_preference": 0.15
+  },
+  "transport_mode": {
+    "local": {
+      "bus": 0.35,
+      "private_car": 0.45,
+      "tuk_tuk": 0.2
+    },
+    "international": {
+      "bus": 0.1,
+      "private_car": 0.75,
+      "tuk_tuk": 0.15
+    }
+  },
+  "daily_hours_available": [
+    8,
+    9,
+    10,
+    11
+  ],
+  "budget_lkr_per_person_per_day": {
+    "local": {
+      "low": [
+        5000,
+        10000
+      ],
+      "medium": [
+        10000,
+        25000
+      ],
+      "high": [
+        25000,
+        60000
+      ]
+    },
+    "international": {
+      "low": [
+        15000,
+        30000
+      ],
+      "medium": [
+        30000,
+        60000
+      ],
+      "high": [
+        60000,
+        150000
+      ]
+    }
+  }
+}
