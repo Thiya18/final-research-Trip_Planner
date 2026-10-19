@@ -1,0 +1,17 @@
+# Editor / tool settings
+.claude/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Node / Expo
+node_modules/
+.expo/
+
+# Stray lockfile at repo root (the real one is in trip_planner/mobile/)
+/package-lock.json
